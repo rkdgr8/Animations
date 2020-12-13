@@ -1,3 +1,1 @@
-If using Chrome to view the activity please run a local server to serve the index.html instead of opening the file via Chrome directly. Otherwise the image files in the activity won't load. This is a security limitation implemented in Chrome.
 
-http://stackoverflow.com/questions/10752055/cross-origin-requests-are-only-supported-for-http-error-when-loading-a-local
